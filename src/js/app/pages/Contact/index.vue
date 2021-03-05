@@ -219,7 +219,7 @@
                                 Object.values(errors).filter(err => err.length)
                                     .length
                             "
-                            class="bg-red-200 p-3 mb-8"
+                            class="bg-red200 p-3 mb-8"
                         >
                             {{ $t("contactPage.error") }}
 
